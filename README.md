@@ -1,0 +1,2 @@
+# PAB
+This project aims to promote Organic farming by reducing usage of weedicide and pesticide which results in soil degradation. · With help of proper Image segmentation and Machine Learning technique i.e. CNN, we are able to distinguish Ladyfinger plant with weeds on field. · We implemented YOLO algorithm to make real time Object detection possible. · We have 4 wheel drive for PAB which enables it to move in field easily we used K mean clustering algorithm for lane detection and autonomous drive.
