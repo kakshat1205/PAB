@@ -1,2 +1,14 @@
-# PAB
-This project aims to promote Organic farming by reducing usage of weedicide and pesticide which results in soil degradation. · With help of proper Image segmentation and Machine Learning technique i.e. CNN, we are able to distinguish Ladyfinger plant with weeds on field. · We implemented YOLO algorithm to make real time Object detection possible. · We have 4 wheel drive for PAB which enables it to move in field easily we used K mean clustering algorithm for lane detection and autonomous drive.
+# Precision Agriculture Bot
+
+An agriculture bot we are developing which can help in controlling weed population in farm by identifying crops and weeds apart using our CNN model, then removing the weed or supplying crops with fertilizers.
+
+<img src="bot.jpeg" width="550">
+
+
+We built a four wheel drive robot with a camera places in the side to identify crops and weeds as it moves along the rows of crops.
+
+Till now we have built our detection model and preliminary control for our robot, need to integrate both parts.
+
+
+Faster RCNN model output:<br>
+<img src="test.png">
