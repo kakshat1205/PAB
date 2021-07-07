@@ -11,6 +11,7 @@ We built a four wheel drive robot with a camera places in the side to identify c
 
 Till now we have built our detection model and preliminary control for our robot, need to integrate both parts.
 
+Link to all videos : https://drive.google.com/drive/folders/1dEyhc501Z7UikUqL99JR3ySwTcXkFh4d?usp=sharing
 
 Faster RCNN model output:<br>
 <img src="test.png">
